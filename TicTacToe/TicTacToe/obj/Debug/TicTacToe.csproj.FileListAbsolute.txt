@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+c:\users\user\documents\visual studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+c:\users\user\documents\visual studio 2012\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+c:\users\user\documents\visual studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+c:\users\user\documents\visual studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+c:\users\user\documents\visual studio 2012\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.MainForm.resources
